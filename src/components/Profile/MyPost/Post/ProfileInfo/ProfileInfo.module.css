@@ -1,0 +1,17 @@
+
+.poster img{
+  height: 150px;
+  width: 1090px;
+}
+.poster{
+  height: 100px;
+  margin-block-end: unset;
+}
+.avatar{
+  height: 230px;
+}
+
+.avatar img{
+  height: 200px;
+  margin-left: 20px;
+}

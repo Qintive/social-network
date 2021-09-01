@@ -1,0 +1,31 @@
+.dialogs{
+display: grid;
+grid-template-columns: 1fr 5fr;
+}
+.dialogsItems{
+    padding: 10px;
+    margin-block-start: 10px;
+    line-height: 40px;
+}
+.dialogsItems .active{
+color: dimgray;
+}
+.messages{
+padding: 10px;
+margin-block-start: 10px;
+line-height: 20px;
+background-color: white ;
+margin-right: 400px;
+}
+button{
+height: 40px;
+width: 80px;
+
+
+}
+textarea{
+    margin-block-start: 30px;
+    height: 35px;
+    width: 480px;
+}
+

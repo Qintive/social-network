@@ -1,0 +1,22 @@
+.nav{
+  grid-area: n;
+  background-color: 	#CDB38B	;
+  
+  }
+  .item{
+    text-align: center;
+  }
+  .item a{
+    color: white;
+    text-decoration: none;
+  }
+  .item a.activLinks{
+    color: dimgrey;
+  }
+  .friendItem{
+    text-align: center;
+    color: white;
+  }
+  .transition{
+    margin-block-end: 80px;
+  }
